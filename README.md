@@ -1,2 +1,3 @@
-# school-games-for-pc
-need to use admin wifi
+I will add more things in the future but heres the update log
+
+-1.00 just stumble guys
